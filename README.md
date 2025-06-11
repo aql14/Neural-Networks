@@ -6,9 +6,7 @@ This repository presents a comparative implementation of simple feedforward neur
 
 The task involves training a neural network on synthetically generated data based on the well-known linear relationship:
 
-\[
-\text{Fahrenheit} = \text{Celsius} \times \frac{9}{5} + 32
-\]
+Fahrenheit = Celsius · 9/5 + 32
 
 While the underlying function is simple and deterministic, this example provides a controlled environment for understanding fundamental concepts in neural network regression, including data normalization, loss functions, optimization, and model evaluation.
 
